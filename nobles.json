@@ -1,0 +1,60 @@
+ {
+    "year": "1901",
+    "winners": [
+      {
+        "category": "chemistry",
+        "winners": [
+          {
+            "name": "Jacobus Henricus van 't Hoff",
+            "country": "Netherlands",
+            "achievement": "laws of chemical dynamics and osmotic pressure"
+          }
+        ]
+      },
+      {
+        "category": "literature",
+        "winners": [
+          {
+            "name": "Sully Prudhomme",
+            "country": "France",
+            "achievement": ""
+          }
+        ]
+      },
+      {
+        "category": "peace",
+        "winners": [
+          {
+            "name": "Henri Dunant",
+            "country": "Switzerland",
+            "achievement": ""
+          },
+          {
+            "name": "Frédéric Passy",
+            "country": "France",
+            "achievement": ""
+          }
+        ]
+      },
+      {
+        "category": "physics",
+        "winners": [
+          {
+            "name": "Wilhelm Conrad Röntgen",
+            "country": "Germany",
+            "achievement": "discovery of X-rays"
+          }
+        ]
+      },
+      {
+        "category": "physiology/medicine",
+        "winners": [
+          {
+            "name": "Emil von Behring",
+            "country": "Germany",
+            "achievement": "work on serum therapy"
+          }
+        ]
+      }
+    ]
+  }
